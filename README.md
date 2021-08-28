@@ -1,2 +1,2 @@
 # k8s
-Kubernetes en ansible
+Kubernetes en ansible editado desde consola
